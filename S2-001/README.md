@@ -1,3 +1,4 @@
+[博文地址](https://www.codemonster.cn/2018/03/28/2018-struts2-001/)
 # 漏洞摘要
 ```
 官方链接：https://cwiki.apache.org/confluence/display/WW/S2-001
@@ -27,9 +28,3 @@ username=xishir&password=%{1+1}
 ```
 带参数的命令：`new java.lang.String[]{"cat","/etc/passwd"}`
 ![](https://www.codemonster.cn/img/s2/s2-001-3.png)
-
-# 参考链接
-[https://cwiki.apache.org/confluence/display/WW/S2-001](https://cwiki.apache.org/confluence/display/WW/S2-001)  
-[http://rickgray.me/review-struts2-remote-command-execution-vulnerabilities.html](http://rickgray.me/review-struts2-remote-command-execution-vulnerabilities.html)  
-[https://github.com/vulhub/vulhub/tree/master/struts2/s2-001](https://github.com/vulhub/vulhub/tree/master/struts2/s2-001)  
-[https://chybeta.github.io/2018/02/06/【struts2-命令-代码执行漏洞分析系列】S2-001/](https://chybeta.github.io/2018/02/06/【struts2-命令-代码执行漏洞分析系列】S2-001/)

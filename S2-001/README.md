@@ -1,4 +1,4 @@
-[博文地址](https://www.codemonster.cn/2018/03/28/2018-struts2-001/)
+文章地址：[https://www.codemonster.cn/2018/03/28/2018-struts2-001/](https://www.codemonster.cn/2018/03/28/2018-struts2-001/)
 # 漏洞摘要
 ```
 官方链接：https://cwiki.apache.org/confluence/display/WW/S2-001

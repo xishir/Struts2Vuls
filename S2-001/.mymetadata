@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="S2-001"
+  id="myeclipse.1522241274196"
+  context-root="/S2_001"
+  j2ee-spec="5.0"
+  archive="S2-001.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

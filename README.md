@@ -1,6 +1,6 @@
 # Struts2Vuls
 Struts2系列漏洞，填坑计划，启动
-- [ ] S2-001 — Remote code exploit on form validation error
+- [x] S2-001 — Remote code exploit on form validation error
 - [ ] S2-002 — Cross site scripting (XSS) vulnerability on <s:url> and <s:a> tags
 - [ ] S2-003 — XWork ParameterInterceptors bypass allows OGNL statement execution
 - [ ] S2-004 — Directory traversal vulnerability while serving static content

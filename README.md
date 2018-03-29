@@ -1,5 +1,6 @@
 # Struts2Vuls
 Struts2系列漏洞，填坑计划，启动
+## 填坑列表
 - [x] S2-001 — Remote code exploit on form validation error
 - [ ] S2-002 — Cross site scripting (XSS) vulnerability on <s:url> and <s:a> tags
 - [ ] S2-003 — XWork ParameterInterceptors bypass allows OGNL statement execution
@@ -56,3 +57,8 @@ Struts2系列漏洞，填坑计划，启动
 - [ ] S2-054 — A crafted JSON request can be used to perform a DoS attack when using the Struts REST plugin
 - [ ] S2-055 — A RCE vulnerability in the Jackson JSON library
 - [ ] S2-056 — A crafted XML request can be used to perform a DoS attack when using the Struts REST plugin
+
+## 前置知识
+Struts2官方安全公告：https://cwiki.apache.org/confluence/display/WW/Security+Bulletins  
+Struts2历史版本：http://archive.apache.org/dist/struts/binaries/   
+乌云drop：http://drops.xmd5.com/static/drops/tips-347.html  
